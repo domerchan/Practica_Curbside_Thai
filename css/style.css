@@ -1,0 +1,27 @@
+#img1 {
+	width: 100%;
+	background-color: rgb(240, 240, 240);
+}
+
+#img2 {
+	float: right;
+	max-width: 250px;
+	padding: 10px;
+}
+
+#about {
+	font-family: arial;
+	color: rgb(142,99,67);
+}
+
+body {
+	width: 750px;
+	border: 0.3px solid;
+	padding: 3px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+article {
+	padding: 25px;
+}
